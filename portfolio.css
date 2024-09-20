@@ -805,7 +805,7 @@ a .learn-more-btn:hover {
 @media (max-width: 768px) {
     .education-heading {
         font-size: 28px;
-        margin-bottom: 20px;
+        margin-bottom: 5px;
     }
 
     .education-heading .line {
@@ -846,7 +846,7 @@ a .learn-more-btn:hover {
 @media (max-width: 480px) {
     .education-heading {
         font-size: 24px;
-        margin-bottom: 20px;
+        margin-bottom: 5px;
     }
 
     .education-heading .line {
@@ -993,6 +993,7 @@ a .learn-more-btn:hover {
 
     .service-card {
         width: 80%;
+        margin-top: 25px;
     }
 
     .service-heading {
@@ -1007,6 +1008,7 @@ a .learn-more-btn:hover {
 
     .service-card {
         width: 100%;
+        margin-top: 25px;
     }
 
     .service-heading .line {
