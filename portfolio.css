@@ -805,7 +805,7 @@ a .learn-more-btn:hover {
 @media (max-width: 768px) {
     .education-heading {
         font-size: 28px;
-        margin-bottom: 5px;
+        margin-bottom: -100px;
     }
 
     .education-heading .line {
@@ -846,7 +846,7 @@ a .learn-more-btn:hover {
 @media (max-width: 480px) {
     .education-heading {
         font-size: 24px;
-        margin-bottom: 5px;
+        margin-bottom: -100px;
     }
 
     .education-heading .line {
