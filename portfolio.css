@@ -858,7 +858,7 @@ a .learn-more-btn:hover {
         font-size: 16px;
     }
 
-    .dot-content p {
+    .dot-content p, .dot-content_2 p {
         font-size: 12px;
     }
 
