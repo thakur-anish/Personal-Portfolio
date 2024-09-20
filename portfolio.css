@@ -868,9 +868,10 @@ a .learn-more-btn:hover {
         width: 240px;
         margin: 0px 35px;
         height:250px;
+        padding-top:5px;
     }
     .dot-content_2{
-        height:310px;
+        height:300px;
     }
 
     .vertical-line {
