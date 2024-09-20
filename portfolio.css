@@ -832,7 +832,7 @@ a .learn-more-btn:hover {
     }
 
     .dot {
-        margin: 130px 0;
+        margin: 150px 0;
     }
 
     .dot-content,
@@ -866,6 +866,7 @@ a .learn-more-btn:hover {
     .dot-content_2 {
         width: 240px;
         margin: 0px 35px;
+        height:290px;
     }
 
     .vertical-line {
