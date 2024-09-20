@@ -860,6 +860,7 @@ a .learn-more-btn:hover {
 
     .dot-content p, .dot-content_2 p {
         font-size: 12px;
+        margin-top:4px;
     }
 
     .dot-content,
